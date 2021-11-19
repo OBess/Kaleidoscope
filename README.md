@@ -1,0 +1,2 @@
+# Kaleidoscope
+Simple project
